@@ -21,7 +21,7 @@ except ImportError:
 dataset = 'imagenet'
 strategy = str(input("eval alg (UCB/naive-UCB/greedy): "))
 embed_model = str(input("Embedding pretrained model (inception-v3/dinov2/clip): "))
-ths_ratio = 0.03
+ths_ratio = 0.05
 T_step = 1000                                                   # evaluation step
 bs = 5                                                          # batch size
 
