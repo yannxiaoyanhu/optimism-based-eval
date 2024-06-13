@@ -4,7 +4,7 @@
 
 ## Reproducibility
 
-We use ImageNet as an example:
+In this repository, we use ImageNet as an example:
 
 1. Download the pretrained weights for the generative models from the official repository of [StudioGAN](https://github.com/POSTECH-CVLab/PyTorch-StudioGAN) and its Hugging Face Hub page: [https://huggingface.co/Mingguksky/PyTorch-StudioGAN/tree/main](https://huggingface.co/Mingguksky/PyTorch-StudioGAN/tree/main). Save them under the path **./gen_models/pretrain_weights/**. (Links are provided in the './gen_models/get_models.py' file.) 
 2. For FID-based evaluation, download the weights for the embedding pretrained models and save them under the path **./feat_models/weights**. 
