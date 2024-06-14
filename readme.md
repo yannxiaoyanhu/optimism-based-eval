@@ -23,7 +23,7 @@ The authors would like to thank the following repositories for open-sourcing the
 
 ## License
 
-FID/IS-UCB code is released under the MIT License. See [LICENSE.txt](https://github.com/yannxiaoyanhu/optimism-based-eval/blob/main/LICENSE.txt) for additional details.
+The code of optimisim-based-eval is released under the MIT License. See [LICENSE.txt](https://github.com/yannxiaoyanhu/optimism-based-eval/blob/main/LICENSE.txt) for additional details.
 
 ## Citation
 ```
