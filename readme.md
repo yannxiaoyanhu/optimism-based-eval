@@ -11,6 +11,8 @@ In this repository, we use ImageNet as an example:
 3. Download the statistics via [[Google Drive](https://drive.google.com/drive/folders/1lrNfbp9MjDAMKcTOtVNPcAwAZqlMXWVS?usp=share_link)] and save under the path **./stats/**. Specifically, files named 'imagenet_fid_stat_{}.npz' save the mean vectors and the covariance matrices for the real images under different embedding models, and files named 'imagenet_FID_Eval_{}.npy' or 'imagenet_IS_Eval.npy' save the FID/Inception scores for the generators based on 50k generated images.
 4. For FID-based evaluation, run [FID-eval.py](https://github.com/yannxiaoyanhu/optimism-based-eval/blob/main/FID-eval.py). For IS-based evaluation, run [IS-eval.py](https://github.com/yannxiaoyanhu/optimism-based-eval/blob/main/IS-eval.py).
 
+### Results
+![FID-InceptionV3.Net](https://github.com/yannxiaoyanhu/optimism-based-eval/blob/main/results/FID-InceptionV3.Net.png)
 
 ## Acknowledgements
 
