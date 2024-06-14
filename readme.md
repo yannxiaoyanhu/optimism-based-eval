@@ -1,6 +1,6 @@
 # optimisim-based-eval: An Optimism-based Approach to Online Evaluation of Generative Models -- Pytorch Implementation
 
-Authors: [Xiaoyan Hu](https://yannxiaoyanhu.github.io), [Ho-fung Leung](http://www.cse.cuhk.edu.hk/~lhf/), [Farzan Farnia](https://www.cse.cuhk.edu.hk/~farnia/Home.html) [[Paper](https://arxiv.org/abs/2406.07451)] [[bibtex](https://github.com/yannxiaoyanhu/optimism-based-eval?tab=readme-ov-file#citation)]
+[Xiaoyan Hu](https://yannxiaoyanhu.github.io), [Ho-fung Leung](http://www.cse.cuhk.edu.hk/~lhf/), [Farzan Farnia](https://www.cse.cuhk.edu.hk/~farnia/Home.html) [[Paper](https://arxiv.org/abs/2406.07451)] [[bibtex](https://github.com/yannxiaoyanhu/optimism-based-eval?tab=readme-ov-file#citation)]
 
 ## Reproducibility
 
