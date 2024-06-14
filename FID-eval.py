@@ -20,7 +20,7 @@ except ImportError:
 # Configs
 dataset = 'imagenet'
 strategy = 'UCB'                                                # UCB/naive-UCB/greedy
-embed_model = 'inception-v3'                                    # inception-v3/dinov2/clip
+embed_model = 'dinov2'                                    # inception-v3/dinov2/clip
 ths_ratio = 0.05
 T_step = 1000                                                   # evaluation step
 bs = 5                                                          # batch size
