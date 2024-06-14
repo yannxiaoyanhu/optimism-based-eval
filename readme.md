@@ -23,7 +23,7 @@ The authors would like to acknowledge the following repositories, which have bee
 
 ## License
 
-The optimisim-based-eval library is released under the MIT License. See [LICENSE.txt](https://github.com/yannxiaoyanhu/optimism-based-eval/blob/main/LICENSE.txt) for additional details. Part of the code are avaiiable under distinct license terms. Specifically, the code based on the implementation in the official repository of OpenCLIP is under the [LICENSE-OpenCLIP.txt](https://github.com/yannxiaoyanhu/optimism-based-eval/blob/main/LICENSE-OpenCLIP), the code based on the implementation in the official repository of dinov2 is under the Apache-2.0 license, and the implementation of StyleGAN3 are licensed under [NVIDIA source code license](https://github.com/yannxiaoyanhu/optimism-based-eval/blob/main/LICENSE-NVIDIA.txt).
+The optimisim-based-eval library is released under the MIT License. See [LICENSE.txt](https://github.com/yannxiaoyanhu/optimism-based-eval/blob/main/LICENSE.txt) for additional details. Part of the code are avaiiable under distinct license terms. Specifically, the code based on the implementation in the official repository of OpenCLIP is under the [LICENSE-OpenCLIP.txt](https://github.com/yannxiaoyanhu/optimism-based-eval/blob/main/LICENSE-OpenCLIP), the code based on the implementation in the official repository of dinov2 is under the [Apache License 2.0](https://github.com/facebookresearch/dinov2/blob/main/LICENSE), and the implementation of StyleGAN3 are licensed under [NVIDIA source code license](https://github.com/yannxiaoyanhu/optimism-based-eval/blob/main/LICENSE-NVIDIA.txt).
 
 ## Citation
 ```
