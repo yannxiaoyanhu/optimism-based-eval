@@ -14,7 +14,7 @@ In this repository, we use ImageNet as an example:
 
 ## Acknowledgements
 
-The authors would like to thank the following repositories for open-sourcing their code and model weights:
+The authors would like to acknowledge the following repositories, which have been utilized in the implementation and testing of the proposed FID-UCB and IS-UCB:
 
 1. [[MIT License](https://github.com/POSTECH-CVLab/PyTorch-StudioGAN/blob/master/LICENSE), [Nvidia Source Code License](https://github.com/POSTECH-CVLab/PyTorch-StudioGAN/blob/master/LICENSE-NVIDIA)] StudioGAN: [https://github.com/POSTECH-CVLab/PyTorch-StudioGAN](https://github.com/POSTECH-CVLab/PyTorch-StudioGAN).
 2. [[Apache License 2.0](https://github.com/facebookresearch/dinov2/blob/main/LICENSE)] DINOv2: [https://github.com/facebookresearch/dinov2](https://github.com/facebookresearch/dinov2).
