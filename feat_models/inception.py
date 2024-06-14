@@ -1,3 +1,6 @@
+# This part of the code is based on the implementation of Analytic-DPM/cifar_imagenet_codes/tools/inception.py
+# in the official repository of Analytic-DPM: https://github.com/baofff/Analytic-DPM/tree/2d7a28c0bbd984a6d47744ab4f6440f3e79757db
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
